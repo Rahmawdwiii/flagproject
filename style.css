@@ -1,0 +1,44 @@
+#red-box{
+    width: 500px;
+    height: 300px;
+    background-color: rgb(213, 26, 26)
+}
+
+#inner-blue{
+    width: 500px;
+    height: 200px;
+    position: absolute;
+    top: 11%;
+    background-color: darkblue;
+    margin: auto;
+}
+
+#white-circle{
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    width: 160px;
+    height: 170px;
+    top: 8%;
+    left: 35%;
+    margin: auto;
+}
+
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: white;
+    margin: auto;
+    position: relative;
+    bottom: 50px;
+   
+}
+
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: black;
+    margin: auto;
+}
